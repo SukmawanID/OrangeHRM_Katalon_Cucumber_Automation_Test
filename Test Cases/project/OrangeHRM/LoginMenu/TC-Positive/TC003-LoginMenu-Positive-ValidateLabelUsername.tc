@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003-LoginMenu-Positive-ValidateLabelUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdd01e5d-f610-4812-8faa-f713ce9f498a</testCaseGuid>
+</TestCaseEntity>

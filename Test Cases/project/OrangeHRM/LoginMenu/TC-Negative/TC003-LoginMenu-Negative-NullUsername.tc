@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003-LoginMenu-Negative-NullUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9be9def-573b-4d1f-b628-09687bc7ea3a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8e97df4-c357-4b90-8a8b-95db0636a889</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46347b1d-3771-4055-9925-bb967c36378d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4b0fe51c-c6db-47da-9d30-abfd921ab378</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d8e97df4-c357-4b90-8a8b-95db0636a889</id>
+      <masked>false</masked>
+      <name>nodata</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46347b1d-3771-4055-9925-bb967c36378d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4b0fe51c-c6db-47da-9d30-abfd921ab378</id>
+      <masked>false</masked>
+      <name>alert_failed_null</name>
+   </variable>
+</TestCaseEntity>

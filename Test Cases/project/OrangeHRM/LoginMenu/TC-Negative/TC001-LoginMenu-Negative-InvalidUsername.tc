@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-LoginMenu-Negative-InvalidUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0127eb6e-e308-4260-8abd-a69b598cf016</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>373a8fda-3a6a-4f0a-b62c-530a44318801</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>57b79c65-5a25-412e-a28f-7d5941496fc9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc361ce3-7dc2-4dd2-84a1-8006624623f2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>373a8fda-3a6a-4f0a-b62c-530a44318801</id>
+      <masked>false</masked>
+      <name>invalid_username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>57b79c65-5a25-412e-a28f-7d5941496fc9</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dc361ce3-7dc2-4dd2-84a1-8006624623f2</id>
+      <masked>false</masked>
+      <name>alert_failed_invalid</name>
+   </variable>
+</TestCaseEntity>
