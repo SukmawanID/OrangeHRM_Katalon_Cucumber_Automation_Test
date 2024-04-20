@@ -17,12 +17,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
+//WebUI.openBrowser('')
+//
+//WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
 
 WebUI.click(findTestObject('Object Repository/project/OrangeHRM_Website/Login/url-forgotPassword'))
 
 
-WebUI.closeBrowser()
+//WebUI.closeBrowser()
 

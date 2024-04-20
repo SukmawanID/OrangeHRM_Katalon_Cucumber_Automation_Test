@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
+//WebUI.openBrowser('')
+//
+//WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
 
 WebUI.setText(findTestObject('project/OrangeHRM_Website/Login/input-textFieldUsername'), invalid_username)
 
@@ -29,5 +29,5 @@ WebUI.click(findTestObject('project/OrangeHRM_Website/Login/btnLogin'))
 
 WebUI.verifyElementText(findTestObject('project/OrangeHRM_Website/Login/notification-error-invalidCredential'), alert_failed_invalid)
 
-WebUI.closeBrowser()
+//WebUI.closeBrowser()
 

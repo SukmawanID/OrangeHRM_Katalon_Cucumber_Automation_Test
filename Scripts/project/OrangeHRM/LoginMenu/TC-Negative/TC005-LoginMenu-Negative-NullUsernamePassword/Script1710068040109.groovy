@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
+//WebUI.openBrowser('')
+//
+//WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
 
 WebUI.setText(findTestObject('project/OrangeHRM_Website/Login/input-textFieldUsername'), nodata)
 
@@ -31,5 +31,5 @@ WebUI.verifyElementText(findTestObject('project/OrangeHRM_Website/Login/notifica
 
 WebUI.verifyElementText(findTestObject('project/OrangeHRM_Website/Login/notification-error-requiredPassword'), alert_failed_null)
 
-WebUI.closeBrowser()
+//WebUI.closeBrowser()
 

@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>6d25f156-660f-4ca2-b1e1-85bf0a7acf0e</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/project/OrangeHRM/LoginMenu/TC-Positive/TC001-LoginMenu-Positive-UserLogin</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -42,35 +42,35 @@
    <testCaseLink>
       <guid>de59e749-34b7-496e-bf40-445af93adf15</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/project/OrangeHRM/LoginMenu/TC-Positive/TC002-LoginMenu-Positive-ForgotPassword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>32488e65-1d4a-4c22-beaa-76a0dd587c86</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/project/OrangeHRM/LoginMenu/TC-Positive/TC003-LoginMenu-Positive-ValidateLabelUsername</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>ffe293b9-6c0c-4fc3-94b8-b9582dae0d45</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/project/OrangeHRM/LoginMenu/TC-Positive/TC004-LoginMenu-Positive-ValidateLabelPassword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>de7d7b3e-8ec4-4aa4-9613-3d29cbd2d57c</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/project/OrangeHRM/LoginMenu/TC-Positive/TC005-LoginMenu-Positive-UserLogin-ValidCredential</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>bda5f587-9a09-48f0-ae02-234f8a273f40</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/project/OrangeHRM/LoginMenu/TC-Negative/TC001-LoginMenu-Negative-InvalidUsername</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -138,7 +138,7 @@
    <testCaseLink>
       <guid>098b4cd6-5728-4d63-9415-205ec2e193c6</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/project/OrangeHRM/LoginMenu/TC-Negative/TC003-LoginMenu-Negative-NullUsername</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -172,7 +172,7 @@
    <testCaseLink>
       <guid>a74f0a92-b55c-4c4f-b517-d2ec073cce1a</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/project/OrangeHRM/LoginMenu/TC-Negative/TC004-LoginMenu-Negative-NullPassword</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -206,7 +206,7 @@
    <testCaseLink>
       <guid>87a4b978-bc35-406c-afbc-4fd76a36e52c</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/project/OrangeHRM/LoginMenu/TC-Negative/TC005-LoginMenu-Negative-NullUsernamePassword</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>

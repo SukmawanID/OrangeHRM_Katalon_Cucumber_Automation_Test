@@ -1,8 +1,8 @@
 {
-  "keywordFileContentHash": "A22684FE205F463B0DEAE40DA9717DAA",
+  "keywordFileContentHash": "98468A6874FDC0BF0864AC6B054B54CD",
   "keywordClasses": [
     {
-      "name": "orangeHRM.LoginMenu",
+      "name": "OrangeHRM.LoginMenu",
       "keywordMethods": []
     }
   ],
